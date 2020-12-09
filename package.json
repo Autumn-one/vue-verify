@@ -1,0 +1,25 @@
+{
+  "name": "vue-better-verify",
+  "version": "1.0.0",
+  "description": "一个基于 vue 的验证插件 支持必填项 验证临时跳过等功能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Autumn-one/vue-verify.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-better-verify",
+    "vue-verify",
+    "vue表单验证"
+  ],
+  "author": "Autumn-one",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Autumn-one/vue-verify/issues"
+  },
+  "homepage": "https://github.com/Autumn-one/vue-verify#readme"
+}
